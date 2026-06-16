@@ -1,0 +1,12 @@
+[
+  { "id": 1, "product": "西瓜", "price": 120, "quantity": 2 },
+  { "id": 2, "product": "鳳梨", "price": 250, "quantity": 1 },
+  { "id": 3, "product": "西瓜", "price": 120, "quantity": 1 },
+  { "id": 4, "product": "蘋果", "price": 80, "quantity": 3 },
+  { "id": 5, "product": "鳳梨", "price": 250, "quantity": 2 },
+  { "id": 6, "product": "芭樂", "price": 65, "quantity": 1 },
+  { "id": 7, "product": "蘋果", "price": 80, "quantity": 1 },
+  { "id": 8, "product": "香蕉", "price": 45, "quantity": 4 },
+  { "id": 9, "product": "西瓜", "price": 120, "quantity": 1 },
+  { "id": 10, "product": "芭樂", "price": 65, "quantity": 2 }
+]
